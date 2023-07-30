@@ -1,4 +1,4 @@
-# ChallengerConvertidor1
+# ChallengeConvertidor1
 
 Conversor de Monedas del challenger de alura este tiene como funcion principal cambiar los montos de las divisas de tu preferencia mientras esten disponibles en el puedes cambiar el Dolar, Euro, Peso Mexicano, Peso Colombiano, Bolivar Soberano, Libra Esterlina y muchas otras, me enfoque principalmente en el diseño dandole un toque minimalista y muy intuitivo para todo publico 
 
